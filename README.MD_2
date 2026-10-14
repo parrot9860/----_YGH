@@ -1,0 +1,21 @@
+kakao.append("다현0")
+kakao.append("다현1")
+kakao.append("다현2")
+print(kakao)
+kakao_len = len(kakao)
+print(kakao_len)
+print(kakao[0])
+print(kakao[kakao_len - 1])
+kakao.append(None)
+print(kakao)
+kakao([len [kakao] - 1 ])= "다현3"
+print(kakao)
+
+# print(node1. data, end= " ")
+# print(node1. link. data, end=" ")
+# print(node1. link)
+current = node1
+while current is not None
+while current.link !=None:
+    current = current.link
+    print(current.data, end=" ")
